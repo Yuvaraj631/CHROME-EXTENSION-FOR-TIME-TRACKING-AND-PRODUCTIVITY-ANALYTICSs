@@ -20,3 +20,5 @@ In addition to the local tracking, the extension can be paired with a backend se
 
 ![Image](https://github.com/user-attachments/assets/96a29a64-7e1f-4794-b00f-06da114e07ac)
 
+
+
